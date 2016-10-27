@@ -1,0 +1,33 @@
+attributed strings
+
+
+etags
+expires
+
+
+
+
+vacumming sql
+
+
+Core Data
+
+
+http caching
+
+
+----
+saving drafts?
+
+
+
+threading issue with AFNetworking.. tablereload
+
+
+check which thread you are in 
+
+
+careful with background thread
+
+
+**** not safe to access uikit in background thread
